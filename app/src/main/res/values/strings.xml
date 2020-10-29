@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">VistasGrupo</string>
+    <string name="fruit_prompt">Choose a fruit</string>
+
+    <string-array name="frutas">
+        <item>Fresas</item>
+        <item>Madarina</item>
+        <item>Pera</item>
+        <item>Banano</item>
+        <item>Manzana</item>
+        <item>Naranja</item>
+        <item>Sandia</item>
+    </string-array>
+</resources>
